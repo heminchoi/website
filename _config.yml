@@ -1,4 +1,5 @@
 title: Hemin Choi # your name (or website title) here
+ <p>Associate Professor of Economics<br>University of Oklahoma</p>
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Assistant Professor
   <br><br>
@@ -15,3 +16,5 @@ plugins:
 - jekyll-remote-theme
 
 
+
+       
