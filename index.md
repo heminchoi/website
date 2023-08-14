@@ -1,10 +1,11 @@
-## Introduction
----
-
 I am currently an Assistant Professor of  at Hallym University.
 I graduated with a PhD in Public Policy from Seoul National University in Aug 2020.
 
 My research interests include urban policy, bureaucracy, policy design, and design thinking based decision making process.
+
+## Introduction
+---
+
 
 ### Category Name 1 
 
