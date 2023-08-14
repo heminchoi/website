@@ -1,7 +1,11 @@
 ## Introduction
 ---
 
-
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Assistant Professor
+  Hallym University
+  <br><br>
+  Second descriptions
 
 ### Category Name 1 
 
