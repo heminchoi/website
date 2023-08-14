@@ -1,11 +1,10 @@
 ## Introduction
 ---
 
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Assistant Professor
-  Hallym University
-  <br><br>
-  Second descriptions
+I am currently an Assistant Professor of  at Hallym University.
+I graduated with a PhD in Public Policy from Seoul National University in Aug 2020.
+
+My research interests include urban policy, bureaucracy, policy design, and design thinking based decision making process.
 
 ### Category Name 1 
 
